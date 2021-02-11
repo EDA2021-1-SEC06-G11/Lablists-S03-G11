@@ -1,3 +1,7 @@
+NOMBRES DE LOS INTEGRANTES: 
+Juan Esteban López - j.lopezt@uniandes.edu.co - 202020285 
+Santiago Garavito - s.garavitor@uniandes.edu.co - 201716308 
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
